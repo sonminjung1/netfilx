@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/netfilx/static/css/main.97205144.css",
-    "main.js": "/netfilx/static/js/main.840d4f2e.js",
+    "main.css": "/netfilx/static/css/main.c4a0c524.css",
+    "main.js": "/netfilx/static/js/main.fa222a69.js",
     "static/js/787.4bf69d8d.chunk.js": "/netfilx/static/js/787.4bf69d8d.chunk.js",
     "static/media/revicons.eot": "/netfilx/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/netfilx/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/netfilx/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/netfilx/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/netfilx/index.html",
-    "main.97205144.css.map": "/netfilx/static/css/main.97205144.css.map",
-    "main.840d4f2e.js.map": "/netfilx/static/js/main.840d4f2e.js.map",
+    "main.c4a0c524.css.map": "/netfilx/static/css/main.c4a0c524.css.map",
+    "main.fa222a69.js.map": "/netfilx/static/js/main.fa222a69.js.map",
     "787.4bf69d8d.chunk.js.map": "/netfilx/static/js/787.4bf69d8d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97205144.css",
-    "static/js/main.840d4f2e.js"
+    "static/css/main.c4a0c524.css",
+    "static/js/main.fa222a69.js"
   ]
 }
